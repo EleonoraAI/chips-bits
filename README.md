@@ -1,8 +1,8 @@
 # CHIPS&BITS
 ## Computing Heritage Intelligent Platform for Searching & Browsing Information Technology and Science
-Website: [https://chipsnbits.dei.unipd.it](https://chipsnbits.dei.unipd.it/)
-Team: [https://chipsnbits.dei.unipd.it/team](https://chipsnbits.dei.unipd.it/team)
-Project: [https://chipsnbits.dei.unipd.it/project](https://chipsnbits.dei.unipd.it/project)
+Website: [https://unibapadova.web.app/](https://unibapadova.web.app/)
+Team: [https://unibapadova.web.app/team](https://unibapadova.web.app/team)
+Project: [https://unibapadova.web.app/project](https://unibapadova.web.app/project)
 
 ### Computing History Initiative for Preservation
 
